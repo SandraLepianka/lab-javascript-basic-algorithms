@@ -1,5 +1,5 @@
 // Names and Input
-function
+function () {}
 
 //Conditionals
 
